@@ -1,57 +1,57 @@
 [{
-  "company": "Infoset",
-  "role": "Co-Founder",
-  "date": "08/2019 - Present",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Building advanced communication and marketing solutions for businesses: <a href=\"https://infoset.app/\" target=\"_blank\" title=\"cloud call center, sales management, customer support\">https://infoset.app/</a>"
-  ]
-}, {
-  "company": "Lisa AI",
-  "role": "Co-Founder",
-  "date": "09/2018 - 02/2019",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Built parts of the mobile app of Lisa (with React Native). ",
-    "Built parts of the backend architecture and big-data infrastructure using Hadoop, HBase, Phoenix, Spark."
-  ]
-}, {
-  "company": "Pisano",
-  "role": "Lead Software Engineer",
-  "date": "09/2017 - 11/2018",
-  "location": "Istanbul, Turkey",
-  "description_bullets": [
-    "Designed the architecture of, built (with Scala), and deployed Pisano Analytics.",
-    "Organized the first Pisano Hackathon. (https://hackathon.pisano.co/)",
-    "Led the web product team for 5 months. Designed the new architecture of <a href=\"https://www.pisano.co/en/widget-channels/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Pisano Web Widget</a> and built most of the production system.",
-    "Extensively used ES6/ES7, React, Redux, Redux-Saga."
-  ]
-}, {
-  "company": "Google",
-  "role": "Software Engineering Intern",
-  "date": "06/2017 - 09/2017",
-  "location": "Zürich, Switzerland",
-  "description_bullets": [
-    "Built and tested the backend of a mid-size product feature.",
-    "Built a pipeline to collect user statistics and do data analysis."
-  ]
-}, {
-  "company": "Pisano",
+  "company": "Yemeksepeti - Delivery Hero Tech Hub Turkey",
   "role": "Software Engineer",
-  "date": "06/2016 - 06/2017",
+  "date": "11/2021 - Present",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Full-stack web development using Ruby on Rails, AngularJS, CoffeeScript, HTML5, LESS.",
-    "Worked in a team-based development environment using agile methodologies like Kanban and Scrum.",
-    "Built, tested and successfully launched the key web product Pisano Web Widget."
+    "Working at <a href=\"https://techhub.yemeksepeti.com/\" target=\"_blank\" title=\"Tech Hub Turkey\">Yemeksepeti</a> as a backend engineer.",
+    "I am working remotely, working from home.",
+    "Being part of the reporting and insights team of the vendor portal tribe.",
+    "Implement and enchance new features by using <strong>Go</strong>.",
+    "Technologies: <strong>Go, gRPC, Git, PostgreSQL, Docker</strong>."
   ]
 }, {
-  "company": "Boğaziçi University Entrepreneurship Center",
-  "role": "Development Team Leader",
-  "date": "09/2016 - 06/2017",
+  "company": "SabancıDx",
+  "role": "Software Engineer",
+  "date": "07/2021 - 10/2021",
   "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Was in charge of a team of 6 people.",
-    "Built and deployed the new web application of the entrepreneurship center called \"Bright\" using PHP (Laravel) and JS (ES6)."
+    "Worked from home.",
+    "Worked in cyber security domain.",
+    "Implemented features for checking services (e.g., Redis, MySQL, POP3, IMAP) whether are observing externally in <strong>Go</strong>.",
+    "Implemented handshake protocols for <strong>Redis, SSH, Rsync, POP-3,</strong> and <strong>IMAP</strong>.",
+    "Technologies: <strong>Go, Azure DevOps, Docker</strong>."
+  ]
+}, {
+  "company": "Software Technologies Research Institue (TUBITAK)",
+  "role": "Part-Time Software Engineer",
+  "date": "10/2020 - 06/2021",
+  "location": "Ankara, Turkey",
+  "description_bullets": [
+    "Worked at <strong>Product Tracking System(ÜTS)</strong> project which is used by <strong>Ministry of the Health</strong> for tracking the medical products.",
+    "Fixed bugsand enchanced the features using <strong>Java, Spring, AngularJS, FLutter</strong>.",
+    "Designed and implemented new pages and key components for the mobile application(<strong>ÜTS Mobil</strong>), which is downloaded more than <strong>+100K</strong> times in the <strong>Google Play Store</strong>.",
+    "Wrote webhook service which is used by <strong>+25 developers</strong> for integration <strong>Microsoft Teams</strong> with production's feedback platform using <strong>Spring</strong> and <strong>Microsoft Teams Webhook API</strong>."
+  ]
+}, {
+  "company": "Software Technologies Research Institue (TUBITAK)",
+  "role": "Software Engineer Intern",
+  "date": "07/2020 - 08/2020",
+  "location": "Ankara, Turkey",
+  "description_bullets": [
+    "Developed <strong>Event Management System</strong> application using <strong>Java, Spring Boot, Flutter, Firebase,</strong> and <strong>PostgreSQL</strong> that announces company's events to people.",
+    "Wrote backend API, documentation.",
+    "Designed and implemented UI components.",
+    "Source code: <a href=\"https://github.com/gozeloglu/event-management-system-backend\">github.com/gozeloglu/event-management-system-backend</a>"
+  ]
+}, {
+  "company": "Innova Bilisim",
+  "role": "Software Engineer Intern",
+  "date": "07/2019 - 08/2019",
+  "location": "Ankara, Turkey",
+  "description_bullets": [
+    "Worked as an Android Developer.",
+    "Developed an Android application for memorizing new words.",
+    "Used <strong>Java</strong> and <strong>Firebase</strong>."
   ]
 }]

@@ -1,27 +1,26 @@
 {
-  "name": "Samed Duzcay",
+  "name": "Gökhan Özeloğlu",
   "profession": "Software Engineer",
-  "summary": "A confident, self-motivated software engineer with 6 years of experience in software development. A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills.",
-  "mail": "samedduzcay@gmail.com",
+  "summary": "Highly self-motivated new grad software engineer. Mainly interested in backend development.",
+  "mail": "gokhan@ozeloglu.io",
   "address": {
-    "title": "Istanbul, Turkey",
-    "url": "https://www.google.com.tr/maps/@41.0847699,29.0492408,16.39z"
+    "title": "Antalya, Turkey",
+    "url": "https://goo.gl/maps/b72U1ppKwJWzrE8s6"
   },
   "personal_site": {
-    "title": "smddzcy.com",
-    "url": "https://smddzcy.com/"
+    "title": "ozeloglu.io",
+    "url": "https://ozeloglu.io/"
   },
   "github": {
-    "title": "github.com/smddzcy",
-    "url": "https://github.com/smddzcy"
+    "title": "github.com/gozeloglu",
+    "url": "https://github.com/gozeloglu"
   },
   "linkedin": {
-    "title": "linkedin.com/in/smddzcy",
-    "url": "https://www.linkedin.com/in/smddzcy"
+    "title": "linkedin.com/in/gokhanozeloglu",
+    "url": "https://www.linkedin.com/in/gokhanozeloglu"
   },
   "hackerrank": {
-    "title": "hackerrank.com/smddzcy",
-    "url": "https://www.hackerrank.com/smddzcy"
-  },
-  "google_analytics": "UA-43755905-9"
+    "title": "hackerrank.com/gozeloglu",
+    "url": "https://www.hackerrank.com/gozeloglu"
+  }
 }
